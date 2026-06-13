@@ -22,21 +22,21 @@ This project provides a RESTful API to manage advertisement data and associated 
 
 ## Project Structure
 
-advertisement/
-├── src/main/java/com/eziz/
-│ ├── config/ # Configuration classes
-│ ├── controller/ # Controller interfaces
-│ │ └── impl/ # Controller implementations
-│ ├── dto/ # Data Transfer Objects
-│ ├── model/ # JPA Entity classes
-│ ├── repository/ # JPA Repositories
-│ ├── service/ # Service interfaces
-│ │ └── impl/ # Service implementations
-│ └── starter/ # Main application starter
-├── src/main/resources/
-│ └── application.properties # Application configuration
-└── pom.xml # Maven dependencies
-text
+advertisement/<br>
+├── src/main/java/com/eziz/<br>
+│ ├── config/ # Configuration classes<br>
+│ ├── controller/ # Controller interfaces<br>
+│ │ └── impl/ # Controller implementations<br>
+│ ├── dto/ # Data Transfer Objects<br>
+│ ├── model/ # JPA Entity classes<br>
+│ ├── repository/ # JPA Repositories<br>
+│ ├── service/ # Service interfaces<br>
+│ │ └── impl/ # Service implementations<br>
+│ └── starter/ # Main application starter<br>
+├── src/main/resources/<br>
+│ └── application.properties # Application configuration<br>
+└── pom.xml # Maven dependencies<br>
+text<br>
 
 
 ---
